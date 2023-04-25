@@ -5,4 +5,8 @@ Hi Devs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-
 AWS is my passion. And developing on AWS is what I love.
 I keep on developing small and large dev projects on AWS and upload the Terraform and Ansible code in this repo.
 
+Feel free to use my source codes to build your projects on AWS at any time.
+
+Happy learning!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" />
+
 Follow for more!
